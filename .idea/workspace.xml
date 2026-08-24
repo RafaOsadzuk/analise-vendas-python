@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c47134c-f5c2-4428-888e-d9997be56757" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Miniproject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pyProjectModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/vendas_tratadas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="9" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RafaOsadzuk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RafaOsadzuk/analise-vendas-python.git",
+    "accountId": "4295cce8-d555-4a70-b5f4-e0af0342a989"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000004582938615" />
+      <entry key="MS500" value="1.0694113929793527" />
+      <entry key="S2" value="1.834539393991419" />
+      <entry key="S5" value="2.405825862895731" />
+      <entry key="S10" value="2.6759798679835147" />
+      <entry key="S30" value="2.88537861421547" />
+      <entry key="S60" value="2.9521269810316646" />
+      <entry key="M2" value="3.379437482337544" />
+      <entry key="M5" value="9.416610665778967" />
+      <entry key="M10" value="23.1531535337402" />
+      <entry key="M15" value="33.69024080068346" />
+      <entry key="M30" value="52.18802112037353" />
+      <entry key="H1" value="77.80436325057867" />
+      <entry key="H2" value="125.19120812567779" />
+      <entry key="H4" value="189.2149388672995" />
+      <entry key="D1" value="307.34685378943686" />
+      <entry key="W1" value="339.21327798864945" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.253373847836612E-87" />
+      <entry key="S5" value="3.077338874553409E-35" />
+      <entry key="S10" value="5.547379408733466E-18" />
+      <entry key="S30" value="1.784793591154979E-6" />
+      <entry key="S60" value="0.0014926043744542255" />
+      <entry key="M2" value="0.05993019802153447" />
+      <entry key="M5" value="0.9169420487645643" />
+      <entry key="M10" value="2.929272934382545" />
+      <entry key="M15" value="4.543919452281574" />
+      <entry key="M30" value="7.282561599544297" />
+      <entry key="H1" value="9.524997767130616" />
+      <entry key="H2" value="11.627905111382765" />
+      <entry key="H4" value="13.984091282924332" />
+      <entry key="D1" value="18.49342407483862" />
+      <entry key="W1" value="19.766508331823395" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9460580772693835" />
+      <entry key="MS500" value="1.0573952563230948" />
+      <entry key="S2" value="1.8284415216031278" />
+      <entry key="S5" value="2.402417287758379" />
+      <entry key="S10" value="2.674042961054632" />
+      <entry key="S30" value="2.8846739831389905" />
+      <entry key="S60" value="2.9531373000524708" />
+      <entry key="M2" value="3.4367739362359586" />
+      <entry key="M5" value="10.316724080706656" />
+      <entry key="M10" value="26.053798265705147" />
+      <entry key="M15" value="38.20404994545534" />
+      <entry key="M30" value="59.445658967616126" />
+      <entry key="H1" value="87.31137005297353" />
+      <entry key="H2" value="136.80599250918132" />
+      <entry key="H4" value="203.18970052576788" />
+      <entry key="D1" value="325.8378226786343" />
+      <entry key="W1" value="358.97939963377337" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ICmcQABQeSRu1yQdIv7tUtDVdD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c47134c-f5c2-4428-888e-d9997be56757" name="Changes" comment="" />
+      <created>1787277006828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787277006828</updated>
+      <workItem from="1787277007831" duration="1089000" />
+      <workItem from="1787407926933" duration="605000" />
+      <workItem from="1787495697434" duration="1870000" />
+      <workItem from="1787498082990" duration="11998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Miniproject1$main.coverage" NAME="main Coverage Results" MODIFIED="1787527206837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

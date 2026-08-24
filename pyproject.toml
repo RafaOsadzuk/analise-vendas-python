@@ -1,0 +1,10 @@
+[project]
+name = "miniproject1"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "pandas-stubs~=3.0.5",
+]
