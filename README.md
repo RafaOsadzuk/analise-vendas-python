@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas com Python e Pandas
+git push -u origin main# 📊 Análise de Vendas com Python e Pandas
 
 Projeto desenvolvido com o objetivo de realizar uma análise de dados de vendas utilizando **Python**, com foco principalmente na biblioteca **Pandas**.
 

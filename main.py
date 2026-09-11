@@ -9,6 +9,7 @@ def somaquantidadevendida ():
 def calcular_faturamento (dt, data='data_venda', valorTotal='Total_Venda', inicio=None, fim=None, frequencia='ME'):
     df_trab = dt.copy()
 
+## conversão de campo data para Datetime
     df_trab[data] = pd.to_datetime(df_trab[data])
 
     if inicio:
@@ -25,7 +26,7 @@ def calcular_faturamento (dt, data='data_venda', valorTotal='Total_Venda', inici
 
     return resultado
 
-def vendedorDeSucesso (dt, vendedor='Vendedor', data='data_venda', valorTotal='Total_Venda', frequencia='M'):
+def vendedorDeSucesso (dt, vendedor='Vendedor', data='data_venda', valorTotal='Total_Venda', frequencia='ME'):
 
     df_trab = dt.copy()
 
@@ -50,6 +51,19 @@ def vendedorDeSucesso (dt, vendedor='Vendedor', data='data_venda', valorTotal='T
     return vendedor_sucesso
 
 
-teste = vendedorDeSucesso(dt)
+def produtoSucesso (dt, data='data_venda',produto='Produto', quantidade='Quantidade', valorTotal='Total_Venda', frequencia='ME'):
+    df_trab = dt.copy()
+    df_trab[data] = pd.to_datetime(df_trab[data])
 
-print(teste)
+    produtosvendidos = df_trab.groupby(produto)[[quantidade, valorTotal]].sum().sort_values(by=quantidade, ascending = False).head(10)
+
+
+    return produtosvendidos
+
+
+df_teste = dt.copy()
+df_teste = produtoSucesso(dt)
+
+print(df_teste)
+
+
